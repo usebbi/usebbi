@@ -1,4 +1,3 @@
-### Hi there 👋, My name is Sebastian
+### Hi there 👋,
 
-#### I am Junior Systems Engineer at @minsait - an Indra Company
-![I am Junior Systems Engineer at @minsait - an Indra Company](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
